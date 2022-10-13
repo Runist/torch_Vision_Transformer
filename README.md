@@ -17,7 +17,7 @@ git clone https://github.com/Runist/torch_Vision_Transformer
 
 ```shell
 cd torch_Vision_Transformer
-pip installl -r requirements.txt
+pip install -r requirements.txt
 ```
 3. Download the **flower dataset**.
 ```shell
