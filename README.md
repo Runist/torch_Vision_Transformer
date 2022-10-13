@@ -24,8 +24,8 @@ pip installl -r requirements.txt
 wget https://github.com/Runist/image-classifier-keras/releases/download/v0.2/dataset.zip
 unzip dataset.zip
 ```
-4. Modifying the [config.py](https://github.com/Runist/torch_Vision_Transformer/config.py).
-5. Download pretrain weights, the url in [utils.py](https://github.com/Runist/torch_Vision_Transformer/utils.py).
+4. Modifying the [config.py](https://github.com/Runist/torch_Vision_Transformer/blob/master/config.py).
+5. Download pretrain weights, the url in [utils.py](https://github.com/Runist/torch_Vision_Transformer/blob/master/utils.py).
 6. Start train your model.
 
 ```shell
