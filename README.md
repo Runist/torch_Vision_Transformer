@@ -6,6 +6,8 @@
 
 Network for Vision Transformer. The pytorch version. 
 
+If this works for you, please give me a star, this is very important to me.😊
+
 ## Quick start
 
 1. Clone this repository
