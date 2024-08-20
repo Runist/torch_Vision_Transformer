@@ -39,6 +39,7 @@ python train.py
 tensorboard --logdir ./summary/log
 ```
 ![tensorboard.png](https://s2.loli.net/2022/10/12/p7KtB1uXMkqvreN.png)
+
 8. Get prediction of model.
 
 ```shell
