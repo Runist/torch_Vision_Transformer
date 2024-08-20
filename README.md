@@ -69,7 +69,7 @@ You need to store your data set like this:
 
 Appreciate the work from the following repositories:
 
-- [WZMIAOMIAO](https://github.com/bubbliiiing)/[vision_transformer](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/vision_transformer)
+- [WZMIAOMIAO](https://github.com/WZMIAOMIAO)/[vision_transformer](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/vision_transformer)
 
 
 ## License
